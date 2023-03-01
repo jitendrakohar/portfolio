@@ -134,7 +134,9 @@ header #navbarResponsive ul li a:hover {
 /*==========05) Banner Section Start==========*/
 
 #banner {
-	background: url(../img/banner/home-banner.png) no-repeat 0% 50%;
+	background: url(../img/banner/background.png) no-repeat 0% 50%;
+	/* background: url() no-repeat 0% 50%; */
+
 }
 
 #banner .content h3 {
